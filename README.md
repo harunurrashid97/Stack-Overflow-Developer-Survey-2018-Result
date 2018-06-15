@@ -2,7 +2,7 @@
 
 ![Imgur](https://i.imgur.com/LfCEkkc.png)
 
-# ![Welcome StackOverflow World From Bangladesh 2018](https://www.kaggle.com/harunshimanto/welcome-stackoverflow-world-from-bangladesh-2018)
+# [Welcome StackOverflow World From Bangladesh 2018](https://www.kaggle.com/harunshimanto/welcome-stackoverflow-world-from-bangladesh-2018)
 Hello everyone from Bangladesh!! I bet everyone must be. Apart from the competitions, there are certain datasets which I found very cool. Most of these are dirty datasets and I think, the more you engage yourself in such datasets, the better you become. After all, in the real world, no one is going to give you a cleaned dataset. Cleaning is an important process and apart from other pre-processing stuff, I think data cleaning eats 70% of the time. Playing with messy datasets can help you become better at this task.
 
 StackOverflow survey 2018 is another such kind of dataset. Though I won't say that it's too messy but yeah it is enough to make you sweat to figure out important features for your ML model that you might want to put on some of the subsets of this survey. So, let's dive in!!
@@ -34,5 +34,6 @@ There are 98,855 responses in this public data release. These responses are what
 Massive, heartfelt thanks to all Stack Overflow contributors and lurking developers of the world who took part in the survey this year. We value your generous participation more than you know.
 
 # Inspiration
-At Stack Overflow, we put developers first and want ![all developers to feel welcome and included on their site](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/). Can we use their annual survey to understand what kinds of users are less likely to identify as part of our community, participate, or feel kinship with fellow developers? Check out ![their blog post](https://stackoverflow.blog/2018/05/30/public-data-release-of-stack-overflows-2018-developer-survey/) for more details.
-*Do coding , love analysis and vizualization.*
+At Stack Overflow, we put developers first and want [all developers to feel welcome and included on their site](https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/). Can we use their annual survey to understand what kinds of users are less likely to identify as part of our community, participate, or feel kinship with fellow developers? Check out [their blog post](https://stackoverflow.blog/2018/05/30/public-data-release-of-stack-overflows-2018-developer-survey/) for more details.
+
+# Do coding , love analysis and vizualization.
