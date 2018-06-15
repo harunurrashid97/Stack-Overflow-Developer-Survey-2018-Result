@@ -1,4 +1,4 @@
-# Stack-Overflow-Developer-Survey-2018
+# Stack-Overflow-Developer-Survey-2018 Result
 
 ![Imgur](https://i.imgur.com/LfCEkkc.png)
 
@@ -7,7 +7,7 @@ Hello everyone from Bangladesh!! I bet everyone must be. Apart from the competit
 
 StackOverflow survey 2018 is another such kind of dataset. Though I won't say that it's too messy but yeah it is enough to make you sweat to figure out important features for your ML model that you might want to put on some of the subsets of this survey. So, let's dive in!!
 
-PS: This will be a long kernel and I will be updating it from time to time. So look out for new things whenever you visit this ![dataset ](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey/data)page. Also, don't forget to up vote if you like it.
+PS: This will be a long kernel and I will be updating it from time to time. So look out for new things whenever you visit this [dataset ](https://www.kaggle.com/stackoverflow/stack-overflow-2018-developer-survey/data)page. Also, don't forget to up vote if you like it.
 
 # Introduction
 ## StackOverflow:
